@@ -1,5 +1,5 @@
 Assignment 
-(Cameron's note- The code examples in this document do not have the correct format due to the way they were formatted in the source document)
+(Cameron's note- The code examples in this document do not have the correct format due to the way they were formatted in the source document. Check out https://repl.it/@freeCodeCamp/fcc-arithmetic-arranger#README.md for the readme in the correct format.)
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 
