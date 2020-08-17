@@ -1,4 +1,6 @@
-Assignment
+Assignment 
+(Cameron's note- The code example's do not have the correct format in this document due to the way they were formatted in the source document)
+
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 
   235
@@ -62,7 +64,7 @@ The unit tests for this project are in test_module.py. We imported the tests fro
 Submitting
 Copy your project's URL and submit it to freeCodeCamp.
 
-
+--------------------------------------------------
 BSD 3-Clause License
 
 Copyright (c) 2020, freeCodeCamp. All rights reserved.
