@@ -1,5 +1,5 @@
 Assignment 
-(Cameron's note- The code example's do not have the correct format in this document due to the way they were formatted in the source document)
+(Cameron's note- The code examples in this document do not have the correct format due to the way they were formatted in the source document)
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 
